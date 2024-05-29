@@ -6,7 +6,7 @@ import time
 # Parameters for the scrape function
 HEAD_OPTION = False
 ALLOW_COOKIES = True
-USER_ZIP_CODE = 43220
+USER_ZIP_CODE = 43201  # Change this to your desired location
 RESULT_AMOUNT = 8
 
 # List of specific items to test scraping
