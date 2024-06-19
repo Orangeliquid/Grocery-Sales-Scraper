@@ -109,6 +109,3 @@ scrape(
 ## License
 
 This project is licensed under the [MIT License](LICENSE.txt).
-
-## Acknowledgments
-- Thanks to the Selenium and MongoDB teams for their amazing tools.
