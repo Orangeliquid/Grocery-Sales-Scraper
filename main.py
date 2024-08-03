@@ -4,13 +4,13 @@ import random
 import time
 
 # Parameters for the scrape function
-HEAD_OPTION = False
+HEAD_OPTION = True
 ALLOW_COOKIES = True
 USER_ZIP_CODE = 43201  # Change this to your desired location
 RESULT_AMOUNT = 8
 
 # List of specific items to test scraping
-ITEMS_LIST = ["Clorox Wipes", "Red Velvet Cookies", "Duck Tape", "Heavy Whipping Cream"]
+ITEMS_LIST = ["Baguette", "Hand Soap", "Kielbasa", "Large eggs"]
 
 # Frequently ordered items list
 FREQUENTLY_ORDERED = [
